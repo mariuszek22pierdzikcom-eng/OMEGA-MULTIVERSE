@@ -39,3 +39,25 @@ python main.py
 * T — Chill Room
 * B — Armory
 * TAB — Portal Lab
+## System Requirements
+
+### Minimum
+
+* **OS:** Windows 10/11 (64-bit)
+* **CPU:** 2-core processor, ~2 GHz or better
+* **RAM:** 4 GB
+* **GPU:** Integrated graphics or better
+* **VRAM:** 512 MB+
+* **Storage:** 500 MB free space
+* **Python:** 3.10+
+* **Pygame:** 2.x
+
+### Recommended
+
+* **OS:** Windows 10/11 (64-bit)
+* **CPU:** 4-core processor or better
+* **RAM:** 8 GB+
+* **GPU:** Intel UHD / AMD Vega / NVIDIA or equivalent
+* **Storage:** 1 GB free space
+* **Python:** 3.11–3.13
+* **Pygame:** 2.x
